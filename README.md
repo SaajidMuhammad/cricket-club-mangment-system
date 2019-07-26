@@ -1,21 +1,21 @@
 # cricket-club-managment-system
 
-## Tools Used
+### Tools Used
 
 - JavaSE
 - Netbeans
 - MySQL
 
-## Functions
+### Functions
 
 - Add/Remove/Edit
 - Search
 - Print
 
-## How to Use
+### How to Use
 
 - Clone from GitHub
 - Import Database (cc_managment.sql)
 - Open in any IDE 
 
-## Happy Programming
+## Happy Programming...!! :)
