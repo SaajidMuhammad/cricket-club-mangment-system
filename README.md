@@ -18,4 +18,4 @@
 - Import Database (cc_managment.sql)
 - Open in any IDE 
 
-## Happy Programming...!! :)
+## Happy Programming...!! ;)
